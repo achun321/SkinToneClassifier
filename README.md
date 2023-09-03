@@ -1,4 +1,4 @@
-# SkinToneClassifier
+# SkinToneProject
 Built on [Skin Tone Classifier]([url](https://github.com/ChenglongMa/SkinToneClassifier)https://github.com/ChenglongMa/SkinToneClassifier) by ChelongMa and [SkinDetector]([url](https://github.com/WillBrennan/SkinDetector)https://github.com/WillBrennan/SkinDetector) by WillBrennan.
 
 # Pipeline
